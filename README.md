@@ -1,3 +1,13 @@
+#   Buscador de Canciones y Artistas musicales
+
+
+La version actual gratuita de la API **theaudiodb** solo permite TESTEAR la api con la banda `coldplay`
+
+<p align="center"><img src="screencapture.png" /></p>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
