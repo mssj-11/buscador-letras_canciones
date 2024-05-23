@@ -9,6 +9,9 @@ body {
 }
 
 
+.bg-info { background-color:#213a57 !important; }
+.bg-primary { background-color:#2d7bdb !important; }
+.btn-primary { background-color:#f92d45 !important; }
 
 label {
   font-family: 'Work Sans', sans-serif;
@@ -30,7 +33,7 @@ legend::before {
   content: '';
   width: calc(120% );
   display: block;
-  background-color:#EB6864;
+  background-color:#2d7bdb;
   height: 40px;
   z-index:-1;
   left: -30px;
@@ -58,7 +61,7 @@ form.card{
 h2 {
   margin-bottom: 2rem;
   font-family: 'Work Sans', sans-serif;
-  border-bottom: 3px solid #EB6864;
+  border-bottom: 3px solid #2d7bdb;
   padding-bottom:10px;
 }
 .card-body i {
